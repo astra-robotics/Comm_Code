@@ -1,3 +1,7 @@
+// Code for differential steering control of rover using RC transmitter
+// Authors: Amrathesh, Dubby; Feb 2019
+// Code for decoding PPM signals from: https://www.instructables.com/id/Rc-Controller-for-Better-Control-Over-Arduino-Proj/
+
 #include <EnableInterrupt.h>
 #include <Servo.h>
 
